@@ -111,6 +111,7 @@ for event in stream:
 - 🚄 **High Performance** Automatic parallelism and prefix caching
 - 📡 **Streaming** Stream browser-augmented LLM output to users
 - 📊 **Concurrency** Out-of-the-box support many users with efficient resource management
+- 🔌 **A2A Router** Built-in message router and context manager for agent-to-agent communication
 
 ## 📄 MIT License
 

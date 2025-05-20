@@ -71,3 +71,4 @@ secrets.env
 
 # 설치 상태 파일
 installation_state.json
+.venv/

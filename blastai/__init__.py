@@ -14,6 +14,7 @@ setup_logging()
 from .engine import Engine
 from .server import app, init_app_state
 from .config import Settings, Constraints
+from .a2a_router import AgentRouter, ContextManager
 
 __all__ = [
     'Engine',
@@ -21,4 +22,6 @@ __all__ = [
     'init_app_state',
     'Settings',
     'Constraints',
+    'AgentRouter',
+    'ContextManager',
 ]
